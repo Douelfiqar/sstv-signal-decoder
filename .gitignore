@@ -1,0 +1,4 @@
+# Input recording and generated audio
+*.raw
+*.wav
+__pycache__/
